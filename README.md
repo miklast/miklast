@@ -11,6 +11,4 @@
 * JS
 * Python
 
-![simpsons "press any key"](https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif)
-
 
