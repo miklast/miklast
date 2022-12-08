@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**miklast/miklast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Mikal Dieatrick
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Eastern Washington University student focused on front-end development.
+
+### Languages
+
+* HTML
+* CSS
+* JS
+* Python
+
+
