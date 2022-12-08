@@ -1,10 +1,10 @@
 
 
-## Mikal Dieatrick
+# Mikal Dieatrick
 
 Current Eastern Washington University student focused on front-end development.
 
-### Languages
+## Languages
 
 * HTML
 * CSS
